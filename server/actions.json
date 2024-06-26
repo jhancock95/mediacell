@@ -1,0 +1,12 @@
+{
+    "actions": [
+        {
+            "codeword": 5001,
+            "id": "alert"
+        },
+        {
+            "codeword": 5002,
+            "id": "thanks"
+        }
+    ]
+}
